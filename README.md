@@ -1,4 +1,4 @@
-# Green Hacker's IP & Domain Lookup 🌍🔍
+# Jasmine's IP & Domain Lookup 🌍🔍
 
 A modern web application built with Streamlit that fetches and displays information about a given IP address or domain, along with its geolocation visualized on an interactive map.
 
