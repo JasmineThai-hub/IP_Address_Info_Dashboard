@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00FF00"         # Bright green for primary elements
+backgroundColor = "#000000"      # Black for the main background
+secondaryBackgroundColor = "#002200" # Even darker green for secondary backgrounds (like sidebars)
+textColor = "#00FF00"            # Bright green for text
+font = "monospace"
